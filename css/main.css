@@ -1,0 +1,46 @@
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+.main {
+	display: flex;
+	flex-wrap: wrap;
+	width: 900px;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+
+.offer {
+	display: flex;
+	width: 250px;
+	height: 250px;
+	background: #333;
+	border-radius: 25px;
+	margin: 0 auto;
+	margin-bottom: 50px;
+}
+
+.offer__text {
+	display: block;
+	width: 250px;
+	text-align: center;
+	font-size: 25px;
+	font-weight: 900;
+	padding-top: 110px;
+	color: #fff;
+}
+
+
+
+
+
+
+
+
